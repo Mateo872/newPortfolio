@@ -1025,7 +1025,7 @@ footer .sec-footer .menu-emojis {
     font-weight: lighter;
   }
 }
-@media (min-width: 991px) {
+@media (min-width: 900px) {
   header {
     height: 6rem;
   }
